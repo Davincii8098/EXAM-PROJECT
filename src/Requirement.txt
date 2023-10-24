@@ -1,0 +1,3 @@
+React
+react DOM
+react-error-boundary
